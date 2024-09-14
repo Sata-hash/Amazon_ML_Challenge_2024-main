@@ -1,3 +1,10 @@
+## Team Name: MLHacks
+# Institute:Heritage Institute Of Technology
+# Members:
+1.Soham Dutta
+2.Sonajhoori Mitra
+3.Dhrubo Ghosh
+4.Satavisa Das
 # ML Challenge Problem Statement
 
 ## Feature Extraction from Images
